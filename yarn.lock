@@ -1824,7 +1824,7 @@
     tailwindcss "^3.3.6"
     vite "^5.4.14"
 
-"@medusajs/admin-sdk@2.5.1":
+"@medusajs/admin-sdk@^2.5.1":
   version "2.5.1"
   resolved "https://registry.npmjs.org/@medusajs/admin-sdk/-/admin-sdk-2.5.1.tgz"
   integrity sha512-WkFIMtT+/SqkRNgNxQ/524hdwd7N1+LA0K6l+kyPOQYAILJS1DEE/vaVeAph3wj7WjQTHMesWlKIVb/h4ycW/Q==
@@ -1898,7 +1898,7 @@
   resolved "https://registry.npmjs.org/@medusajs/cart/-/cart-2.5.1.tgz"
   integrity sha512-FAMOUHsUZK32MWs4sgWIcSjcc1+2C6/25Rv+cP74Jc0RoyIT5hpZZcdIZV15fUJ1oBeFzTbQC2M6jkPawvJYhA==
 
-"@medusajs/cli@^2.4.0", "@medusajs/cli@2.5.1":
+"@medusajs/cli@^2.4.0", "@medusajs/cli@^2.5.1":
   version "2.5.1"
   resolved "https://registry.npmjs.org/@medusajs/cli/-/cli-2.5.1.tgz"
   integrity sha512-9I2m9lcHJYwchp4vqaKR01WAlc4jexTkrqZxcdZclXiHJ1NTHROrFR6wMVX5lZ2kkaAUclDgG488acLxBbD8og==
@@ -2018,7 +2018,7 @@
   resolved "https://registry.npmjs.org/@medusajs/file/-/file-2.5.1.tgz"
   integrity sha512-Ll7SeP/T6v2dr6Gzo4Z/sHlIHT/+7bbqnHYlh2nK4L+BPyaQwqc/Q7PoQShxUZxhW3Di+q0YVVDKly908dcV/g==
 
-"@medusajs/framework@^2.4.0", "@medusajs/framework@2.5.1":
+"@medusajs/framework@^2.4.0", "@medusajs/framework@^2.5.1":
   version "2.5.1"
   resolved "https://registry.npmjs.org/@medusajs/framework/-/framework-2.5.1.tgz"
   integrity sha512-hJ8n8bPp64TsT/KicUwCmXdpA0RsRtkSVJAlCAzfOg4Lk1jDuldDuBvVyo6PnYpBQeDxDxnz6DE+HlOyMFzWEw==
@@ -2102,7 +2102,7 @@
   resolved "https://registry.npmjs.org/@medusajs/locking/-/locking-2.5.1.tgz"
   integrity sha512-6tkDr29uETnPFlYFjyD0iwzGPF5DpT+Rn7u2NkQ5P98QRMHjrgNaYAz4sauk8phprG5CtR4vFg4DaYGQqif8xA==
 
-"@medusajs/medusa@^2.4.0", "@medusajs/medusa@2.5.1":
+"@medusajs/medusa@^2.4.0", "@medusajs/medusa@^2.5.1":
   version "2.5.1"
   resolved "https://registry.npmjs.org/@medusajs/medusa/-/medusa-2.5.1.tgz"
   integrity sha512-nfYRMF8Olv3rh4BNne1+Cg0rrJ3oslhUnWhJF4LgYuWf9A64/RS1nC+W6URI2CgborpjD3oiNee/zwym3YPmBw==
@@ -2275,7 +2275,7 @@
     remove-trailing-slash "^0.1.1"
     uuid "^8.3.2"
 
-"@medusajs/test-utils@2.5.1":
+"@medusajs/test-utils@^2.5.1":
   version "2.5.1"
   resolved "https://registry.npmjs.org/@medusajs/test-utils/-/test-utils-2.5.1.tgz"
   integrity sha512-E1jhIBmW3nL42SVjasgj4RjgRJjcMKNlGm2k0VO8mGvhSt/lz+oeOCdO4qd2T9lVOw0pdFVFY2P7E1vgu8oGnA==
@@ -2367,7 +2367,7 @@
     "@medusajs/utils" "^2.5.1"
     ulid "^2.3.0"
 
-"@mikro-orm/cli@6.4.3":
+"@mikro-orm/cli@^6.4.3", "@mikro-orm/cli@6.4.3":
   version "6.4.3"
   resolved "https://registry.npmjs.org/@mikro-orm/cli/-/cli-6.4.3.tgz"
   integrity sha512-DWnYNxoyMgU6L90TGBlT0eziTu6yl15ArnnFoq0kyOjp8JEMRjin+8cizSrKyQ3QiQZ5iop5fB0i9Sp+Hbgd8Q==
@@ -2379,7 +2379,7 @@
     tsconfig-paths "4.2.0"
     yargs "17.7.2"
 
-"@mikro-orm/core@^6.0.0", "@mikro-orm/core@6.4.3":
+"@mikro-orm/core@^6.0.0", "@mikro-orm/core@^6.4.3", "@mikro-orm/core@6.4.3":
   version "6.4.3"
   resolved "https://registry.npmjs.org/@mikro-orm/core/-/core-6.4.3.tgz"
   integrity sha512-UTaqKs1bomYtGmEEZ8sNBOmW2OqT5NcMh+pBV2iJ6WLM5MuiIEuNhDMuvvPE5gNEwUzc1HyRhUV87bRDhDIGRg==
@@ -2392,7 +2392,7 @@
     mikro-orm "6.4.3"
     reflect-metadata "0.2.2"
 
-"@mikro-orm/knex@6.4.3":
+"@mikro-orm/knex@^6.4.3", "@mikro-orm/knex@6.4.3":
   version "6.4.3"
   resolved "https://registry.npmjs.org/@mikro-orm/knex/-/knex-6.4.3.tgz"
   integrity sha512-gVkRD/cIn6qxk/P9nR+IufZxJwuCCdv0AtcGvShxXXvaoIrQPJYDV7HRxBOHCEyNygr6M3Fqpph1oPoT6aezTQ==
@@ -2401,7 +2401,7 @@
     knex "3.1.0"
     sqlstring "2.3.3"
 
-"@mikro-orm/migrations@6.4.3":
+"@mikro-orm/migrations@^6.4.3", "@mikro-orm/migrations@6.4.3":
   version "6.4.3"
   resolved "https://registry.npmjs.org/@mikro-orm/migrations/-/migrations-6.4.3.tgz"
   integrity sha512-VrsKq95esUBEMhwp9vVX+YUj2+/cNwb8UZ63HfgaqPo+pYj8r1RBSTboFOE9V0Md0n3ol9b5xByfPPa3qHmL0g==
@@ -2410,7 +2410,7 @@
     fs-extra "11.2.0"
     umzug "3.8.2"
 
-"@mikro-orm/postgresql@6.4.3":
+"@mikro-orm/postgresql@^6.4.3", "@mikro-orm/postgresql@6.4.3":
   version "6.4.3"
   resolved "https://registry.npmjs.org/@mikro-orm/postgresql/-/postgresql-6.4.3.tgz"
   integrity sha512-3cGi1gW6ME3SyuRRiJmSBtzHFa6Kavy6bK9rsSAAfXz+Pso6UBsqvesATbruKxDF7/CLdQlIY3CZZHXksUIrQg==
@@ -9056,11 +9056,6 @@ picomatch@^4.0.2:
   version "4.0.2"
   resolved "https://registry.npmjs.org/picomatch/-/picomatch-4.0.2.tgz"
   integrity sha512-M7BAV6Rlcy5u+m6oPhAPFgJTzAioX/6B0DxyvDlo9l8+T3nLKbrczg2WLUyzd45L8RqfUMyGPzekbMvX2Ldkwg==
-
-picomatch@3.x:
-  version "3.0.1"
-  resolved "https://registry.npmjs.org/picomatch/-/picomatch-3.0.1.tgz"
-  integrity sha512-I3EurrIQMlRc9IaAZnqRR044Phh2DXY+55o7uJ0V+hYZAcQYSuFWsc9q5PvyDHUSCe1Qxn/iBz+78s86zWnGag==
 
 pify@^2.3.0:
   version "2.3.0"
